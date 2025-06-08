@@ -627,7 +627,7 @@ nav {
 }
 
 .newsletter-input::placeholder {
-    color: var(--text-muted);
+    color: var(--accent-gold);
 }
 
 .newsletter-input:focus {
